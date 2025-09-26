@@ -16,6 +16,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |-|-|-|
 |0x1eef|[llm.rb](https://github.com/llmrb/llm)|0x1eef@proton.me|
 |Aaron Allen|-|[https://aaronmallen.me](https://aaronmallen.me)|
+|Aaron H|[RubyForGood Proj. Lead Emeritus](https://github.com/rubyforgood/human-essentials)|[@armahillo@ruby.social](https://ruby.social/@armahillo) / [aaronh.me](https://aaronh.me)|
 |Aaron Sumner|-|[@ruralocity@mastodon.social](https://mastodon.social/@ruralocity)|
 |Adrian McEwen|[MCQN Ltd](https://mcqn.com)|[@amcewen@mastodon.me.uk](https://mastodon.me.uk/@amcewen)|
 |Aji Slater|-|[@doodling.dev](https://bsky.app/profile/doodling.dev)|
